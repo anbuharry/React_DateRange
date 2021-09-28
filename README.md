@@ -1,2 +1,1 @@
-## React_DateRange Preview :
 
